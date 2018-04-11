@@ -358,15 +358,16 @@ position: absolute;
   box-shadow: none!important;
   border:none!important;
 }
-#main-hero .col-sm-5 {
-  padding-top:110px;
-}
-#main-hero .col-sm-7 {
-  text-align: center;
-}
 #main-hero .wrap:last-child {
   padding-top:40px;
 }
+.chia-image {
+  width: 70%;
+}
+.vertical-center {
+  margin: auto;
+}
+
 @media (min-width: 375px) { 
   #main-hero .col-sm-5 {
     padding-top: 0px!important;

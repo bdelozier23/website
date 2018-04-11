@@ -549,12 +549,6 @@ width:20px;
 .page-footer .col-sm-3:last-child img:last-child{
   max-width: 18px!important;
 }
-#news-feed-page .page-footer .col-sm-3:last-child img:last-child{
-  max-width: 18px!important;
-}
-#faq-page .page-footer .col-sm-3:last-child img:last-child{
-  max-width: 18px!important;
-}
 .page-footer .wrap {
   padding-bottom: 20px;
 }
